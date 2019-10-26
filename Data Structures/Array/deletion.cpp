@@ -9,7 +9,7 @@ using namespace std;
 void printArray(long long int arr[], long long int n){
 	for(long long int i=0; i<n ;i++)
 		cout << arr[i] << " ";
-	cout << endl;
+	cout << "\n";
 }
 
 int main(){
